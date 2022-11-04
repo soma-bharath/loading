@@ -1,0 +1,15 @@
+/*new*/
+body {
+  margin: 20px;
+}
+
+.progress {
+  width: 700px;
+}
+
+
+/*new*/
+.testButton {
+  display: none; /*hide initially*/
+  padding: 8px 16px;
+}
